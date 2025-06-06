@@ -1,12 +1,9 @@
-# Telegram Translation Bot
+# Welcome to MLopProj repo by Danaya Diarra
 
-This bot translates text and voice messages sent in Telegram groups to English automatically.
+
 
 ## Features
 
-- Translates any text message to English
-- Transcribes and translates voice messages (e.g., .ogg files) using Whisper
-- Deployable on Render, Railway, or Heroku
 
 ## Requirements
 
